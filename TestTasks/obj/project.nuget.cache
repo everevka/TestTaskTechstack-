@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wJrN60BGJQkYdqCkwneRxt+2mvCaQrtI3JXxcxFVvMWnH3ulzQLx6YjE4gsqgsdmx3tMdk7aIwhmUPVeu63i1Q==",
+  "dgSpecHash": "6vjYPUZVyM1KwW9unBXS+8pONHxPbMxvqKUSqUYh+kVZP3IktiN9w5tKs/9LrL7WfGpSnClkVN9MpUAhztKrQg==",
   "success": true,
-  "projectFilePath": "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTasks\\TestTasks.csproj",
+  "projectFilePath": "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTaskTechstack-\\TestTasks\\TestTasks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Мы\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Мы\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",

@@ -85,32 +85,8 @@ namespace TestTasks
 
 
         }
-
-
-        [Test]
-        public void LoginWithEmptyData()
-        {
-
-            var signIn = driver.FindElement(signInButton);
-            signIn.Click();
-
-            var login = driver.FindElement(emailInputButton);
-            login.SendKeys(string.Empty);
-
-            var password = driver.FindElement(passwordInputButton);
-            password.SendKeys(string.Empty);
-
-            var loginConfirm = driver.FindElement(loginButton);
-            loginConfirm.Click();
-
-            var actualProfile = driver.FindElement(profile).Text;
-
-            Assert.AreEqual(testEmail.ToUpper(), actualProfile, "error login");
-
-
-        }
+                 
         [TearDown]
-
         public void TearDown() 
         {
             driver.Quit();

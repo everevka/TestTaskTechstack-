@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTasks\\TestTasks.csproj": {}
+    "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTaskTechstack-\\TestTasks\\TestTasks.csproj": {}
   },
   "projects": {
-    "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTasks\\TestTasks.csproj": {
+    "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTaskTechstack-\\TestTasks\\TestTasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTasks\\TestTasks.csproj",
+        "projectUniqueName": "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTaskTechstack-\\TestTasks\\TestTasks.csproj",
         "projectName": "TestTasks",
-        "projectPath": "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTasks\\TestTasks.csproj",
+        "projectPath": "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTaskTechstack-\\TestTasks\\TestTasks.csproj",
         "packagesPath": "C:\\Users\\Мы\\.nuget\\packages\\",
-        "outputPath": "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTasks\\obj\\",
+        "outputPath": "D:\\Program Files (D)\\Microsoft Visual Studio\\Project\\TestTaskTechstack-\\TestTasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Мы\\AppData\\Roaming\\NuGet\\NuGet.Config",
